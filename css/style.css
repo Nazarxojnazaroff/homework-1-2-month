@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.general {
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+h1 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #363940;
+}
+p {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #95a1bb;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+th {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #363940;
+}
+.td1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #95a1bb;
+}
+td {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #363940;
+  padding-left: 15px;
+}
+.td2 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #6e38f7;
+}
+button {
+  width: 140px;
+  height: 36px;
+  border: 1px solid #6e38f7;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #6e38f7;
+}
+button:hover {
+  background: #6e38f7;
+  border-radius: 4px;
+  color: #fff;
+  transition: all 0.3s ease-in;
+  box-shadow: 4px 5px 4px #2b0687;
+}
+table {
+  margin-top: 20px;
+  box-shadow: 1px 1px 5px #363940;
+  border-color: #cacaca;
+}
